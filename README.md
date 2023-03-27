@@ -29,3 +29,9 @@ Marketing towards men would yield better results based on overall population
 ### Breakdown of Riders by Hour
 ![Screenshot 2023-03-26 202948](https://user-images.githubusercontent.com/116928193/227834119-03678310-6360-442b-aff6-4cca5ed990f4.png)
 Marketing towards all genders about rented bikes being a safe, ecological, economic way to commute to work could yield more users
+
+# Summary
+As seen in the data above, with ample marketing, bike ridesharing could lead to less traffic and more ecological cities.
+## Additional Analyses
+1) Gather more data about our users, such as income or vehicle ownership could lead to better visualizations reflecting wether our users chose to ride bikes or wether it is their only choice to commute to work
+2) Gathering data for populations in the cities against rideshare users could show where marketing is necessary, a low percentage of users in one city could mean more marketing is necessary there or wether it is not necessary
